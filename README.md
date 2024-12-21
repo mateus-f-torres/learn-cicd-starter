@@ -1,5 +1,9 @@
 # learn-cicd-starter (Notely)
 
+https://ieftimov.com/posts/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/
+https://adam-p.ca/blog/2022/01/golang-http-server-timeouts/
+https://blog.questionable.services/article/http-handler-error-handling-revisited/
+
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ![ci status](https://github.com/mateus-f-torres/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
